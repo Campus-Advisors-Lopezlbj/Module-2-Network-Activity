@@ -1,7 +1,7 @@
 # Module-2-Network-Activity
 Individual Assignments for Campus Advisors
 
-#Fetch
+##Fetch
 #Push
 #Remotes
 #Branches
